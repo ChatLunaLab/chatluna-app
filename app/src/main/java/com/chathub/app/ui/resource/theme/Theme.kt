@@ -77,7 +77,7 @@ private val DarkColors = darkColorScheme(
 )
 
 @Composable
-fun MyLuaAppTheme(
+fun ChatHubTheme(
     useDarkTheme: Boolean = isSystemInDarkTheme(),
     content: @Composable() () -> Unit
 ) {

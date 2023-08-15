@@ -2,5 +2,8 @@
     <string name="app_name">ChatHub App</string>
     <string name="main_menu_settings">设置</string>
     <string name="main_menu_about">关于</string>
-
+    <string name="main_drawer_new_chat">新建聊天</string>
+    <string name="main_drawer_chat_history">聊天历史</string>
+    <string name="main_drawer_preset_list">预设列表</string>
+    <string name="main_drawer_configure_model">配置模型</string>
 </resources>
